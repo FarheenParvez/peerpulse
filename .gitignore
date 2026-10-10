@@ -14,3 +14,7 @@ peerpulse-client
 .vscode/
 .idea/
 .DS_Store
+
+# Local test binaries
+/build-server
+/build-client
